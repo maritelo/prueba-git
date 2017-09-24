@@ -31,6 +31,7 @@ public class Prueba extends Application {
             }
         });
         
+        System.out.println("I DONT KNO WHY THIS WAS DELETED");
         StackPane root = new StackPane();
         root.getChildren().add(btn);
         
